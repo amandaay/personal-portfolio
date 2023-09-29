@@ -3,7 +3,7 @@ import { NavBar } from './components/NavBar';
 import { Banner } from './components/Banner';
 import { Projects } from './components/Projects';
 // import { HireMe } from './components/HireMe';
-import { Contact } from './components/Contact';
+// import { Contact } from './components/Contact';
 import { Partners } from './components/Partners';
 
 import { Footer } from './components/Footer';
@@ -17,7 +17,7 @@ function App() {
       <Projects />
       {/* <HireMe /> */}
       <Partners />
-      <Contact />
+      {/* <Contact /> */}
 
       <Footer />
     </div>
