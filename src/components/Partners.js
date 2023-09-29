@@ -31,9 +31,12 @@ export const Partners = () => {
           Here are some products that I believe in and hope it helps you too😚
         </span>
         <p>
-          My family and friends are all around the world.👨‍👩‍👧‍👧 So I love seeing
-          them by traveling around the world 🌍 so I try to be good about
-          maximizing my credit card points✈️💳
+          My family and friends are all around the world.👨‍👩‍👧‍👧
+          <br />
+          So I love seeing them by traveling around the world 🌍
+          <br />
+          Here is how I try to be good about maximizing my credit card
+          points✈️💳
         </p>
         <p>Here are some cc I recommend in the US as for 2023.</p>
         <Row className="align-items-center row">
