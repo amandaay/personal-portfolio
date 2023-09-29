@@ -1,7 +1,8 @@
 import { useState, useEffect } from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
 import { ArrowRightCircle } from 'react-bootstrap-icons';
-import profilePic from '../assets/img/profilePic.jpg';
+// import banner from '../assets/img/banner.jpg';
+import profilePic from "../assets/img/profilePic.jpg"
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 
@@ -64,23 +65,22 @@ export const Banner = () => {
                     <span>{text}</span>
                   </h1>
                   <p>
-                    I am currently pursuing a Master’s degree in Computer
-                    Science. I received my Doctorate degree in Pharmacy and
-                    completed clinical rotations, and I worked as a pharmacist
-                    previously. I have a strong desire to see advancements in
-                    the tools that professionals use. I believe that medicine
-                    and technology can work interdependently, and I am eager to
-                    build the tools to engage in the cross intersections between
-                    healthcare and tech. My goal is to find an opportunity in
-                    this field to make a difference by engineering the tools we
-                    use. I gained experience via building projects as displayed
-                    on my github and worked for a non-profit organization. In
-                    this past summer, I had the opportunity to intern at Amazon,
-                    where I have honed in skills to grow as a software engineer.
-                    I built projects collaboratively and independently. As I am
-                    highly adaptable, I am open to any opportunities in tech
-                    that involves with or without healthcare to further develop
-                    my skills in tech.
+                    In my 20s, I juggled two careers much like hobbies! 🤪 Now,
+                    I'm immersed in Software Engineering, pursuing a Computer
+                    Science degree 👩🏻‍💻 alongside a Pharm.D. with clinical
+                    experience 👩🏻‍⚕️💊💉.
+                    <br />
+                    <br />
+                    I'm passionate about bridging tech and healthcare, evident
+                    in my GitHub projects. An Amazon internship refined my
+                    skills 💼, and adaptability drives me to explore diverse
+                    tech opportunities 🚀.
+                    <br />
+                    <br />
+                    Beyond work, I enjoy 🩰 dancing, 🏸 badminton, and 🗺️
+                    traveling. I'm a local dancer in the Bay Area, part of
+                    Montage Contemporary Dance Company 💃. Come see us if you're
+                    interested!👯‍♀️
                   </p>
                   <button onClick={() => console.log('connect')}>
                     Let's connect <ArrowRightCircle size={25} />
