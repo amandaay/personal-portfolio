@@ -77,7 +77,7 @@ export const Banner = () => {
                     tech opportunities 🚀.
                     <br />
                     <br />
-                    Beyond work, I enjoy 🩰 dancing, 🏸 badminton, and 🗺️
+                    Beyond work, I enjoy 🩰 dancing, 🧘🏻‍♀️ yoga, 🏸 badminton, and 🗺️
                     traveling. I'm a local dancer in the Bay Area, part of
                     Montage Contemporary Dance Company 💃. Come see us if you're
                     interested!👯‍♀️
