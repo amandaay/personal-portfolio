@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
 import { ArrowRightCircle } from 'react-bootstrap-icons';
-import headerImg from '../assets/img/header-img.svg';
+import profilePic from '../assets/img/profilePic.jpg';
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 
@@ -90,7 +90,7 @@ export const Banner = () => {
             </TrackVisibility>
           </Col>
           <Col xs={12} md={6} xl={5}>
-            <img src={headerImg} alt="Headder Img" />
+            <img src={profilePic} alt="Headder Img" />
           </Col>
         </Row>
       </Container>
