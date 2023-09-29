@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
 import { ArrowRightCircle } from 'react-bootstrap-icons';
 // import banner from '../assets/img/banner.jpg';
-import profilePic from "../assets/img/profilePic.jpg"
+import profilePic from '../assets/img/profilePic.jpg';
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 

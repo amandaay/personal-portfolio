@@ -23,7 +23,7 @@ export const Partners = () => {
     },
   ];
   return (
-    <section className="partners">
+    <section className="partner" id="partners">
       <Container>
         <h1>DEALS</h1>
         <h5>Discounts just for you</h5>
