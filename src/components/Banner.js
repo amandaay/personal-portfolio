@@ -65,23 +65,27 @@ export const Banner = () => {
                     <span>{text}</span>
                   </h1>
                   <p>
-                    In my 20s, I juggled two careers much like hobbies! 🤪 Now,
-                    I'm immersed in Software Engineering, pursuing a Computer
-                    Science degree 👩🏻‍💻 alongside a Pharm.D. with clinical
-                    experience 👩🏻‍⚕️💊💉.
+                    Yes, I spent my 20s pursuing two different careers just like
+                    people who have various hobbies! 🤪 Now, I'm immersed in
+                    Software Engineering, pursuing a Computer Science degree 👩🏻‍💻
+                    alongside a Pharm.D. with clinical experience 👩🏻‍⚕️💊💉.
                     <br />
                     <br />
-                    I'm passionate about bridging tech and healthcare, evident
-                    in my GitHub projects. An Amazon internship refined my
-                    skills 💼, and adaptability drives me to explore diverse
-                    tech opportunities 🚀.
+                    While my passion comes from the idea of bridging tech and
+                    healthcare, I enjoy how engineering became a creative outlet
+                    for me. It allows me to build products for people to use,
+                    evident in my Github. Last summer, I interned at Amazon to
+                    refine my skills 💼, focusing on a distributed system.
+                    Adaptability drives me to explore diverse tech opportunities
+                    🚀.
                     <br />
                     <br />
-                    Beyond work, I enjoy 🩰 dancing, 🧘🏻‍♀️ yoga, 🏸 badminton, and 🗺️
-                    traveling. I'm a local dancer in the Bay Area, part of
+                    Beyond work, I enjoy 🩰 dancing, 🧘🏻‍♀️ yoga, 🏸 badminton, and
+                    🗺️ traveling. I'm a local dancer in the Bay Area, part of
                     Montage Contemporary Dance Company 💃. Come see us if you're
                     interested!👯‍♀️
                   </p>
+
                   <button onClick={() => console.log('connect')}>
                     Let's connect <ArrowRightCircle size={25} />
                   </button>
