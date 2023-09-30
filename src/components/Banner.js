@@ -67,7 +67,7 @@ export const Banner = () => {
                   <p>
                     Yes, I spent my 20s pursuing two different careers just like
                     people who have various hobbies! 🤪 Now, I'm immersed in
-                    Software Engineering, pursuing a Computer Science degree 👩🏻‍💻
+                    Software Engineering with a focus in backend. 👩🏻‍💻
                     alongside a Pharm.D. with clinical experience 👩🏻‍⚕️💊💉.
                     <br />
                     <br />
