@@ -65,8 +65,7 @@ export const Banner = () => {
                     <span>{text}</span>
                   </h1>
                   <p>
-                    Yes, I spent my 20s pursuing two different careers just like
-                    people who have various hobbies! 🤪 Now, I'm immersed in
+                    Now, I'm immersed in
                     Software Engineering with a focus in backend. 👩🏻‍💻
                     alongside a Pharm.D. with clinical experience 👩🏻‍⚕️💊💉.
                     <br />
