@@ -78,11 +78,11 @@ export const Banner = () => {
                     Adaptability drives me to explore diverse tech opportunities
                     🚀.
                     <br />
-                    <br />
+                    {/* <br />
                     Beyond work, I enjoy 🩰 dancing, 🧘🏻‍♀️ yoga, 🏸 badminton, and
                     🗺️ traveling. I'm a local dancer in the Bay Area, part of
                     Montage Contemporary Dance Company 💃. Come see us if you're
-                    interested!👯‍♀️
+                    interested!👯‍♀️ */}
                   </p>
 
                   <button onClick={() => console.log('connect')}>
